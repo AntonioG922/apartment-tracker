@@ -30,9 +30,19 @@ export const STREET_SPACING_M = 77.7;
 // Per-gap overrides where the uniform STREET_SPACING_M average is visibly
 // off against real tiles. Keyed by the lower street number of the gap (e.g.
 // 23 = the block between W23rd and W24th). Confirmed against real map tiles:
-// the 23rd-24th block runs wider than average, which was pushing every
-// street from 24th up too far south.
+// - 14th-15th runs wider than average, pushing 15th-18th too far south.
+//   15th-16th-17th-18th match the average fine, so only this one gap moves.
+// - 18th-19th and 19th-23rd taper back down so W23rd (independently
+//   anchored, see ANCHOR above) stays exactly pinned - the sum of all nine
+//   gaps from 14th to 23rd is unchanged at 9 * STREET_SPACING_M.
+// - 23rd-24th runs wider than average, pushing 24th and up too far south.
 const STREET_GAP_OVERRIDES_M: Partial<Record<number, number>> = {
+  14: 92.7,
+  18: 70.2,
+  19: 75.825,
+  20: 75.825,
+  21: 75.825,
+  22: 75.825,
   23: 92,
 };
 
