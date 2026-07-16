@@ -1,0 +1,3806 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w14-10-11",
+        "kind": "street",
+        "name": "W 14th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00956869902161,
+            40.74268810832858
+          ],
+          [
+            -74.0070349592173,
+            40.741630486662864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w14-9-10",
+        "kind": "street",
+        "name": "W 14th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0070349592173,
+            40.741630486662864
+          ],
+          [
+            -74.00450121941297,
+            40.74057286499715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w14-8-9",
+        "kind": "street",
+        "name": "W 14th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00450121941297,
+            40.74057286499715
+          ],
+          [
+            -74.00196747960864,
+            40.73951524333143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w14-7-8",
+        "kind": "street",
+        "name": "W 14th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00196747960864,
+            40.73951524333143
+          ],
+          [
+            -73.99943373980432,
+            40.73845762166572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w14-6-7",
+        "kind": "street",
+        "name": "W 14th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99943373980432,
+            40.73845762166572
+          ],
+          [
+            -73.9969,
+            40.7374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w15-10-11",
+        "kind": "street",
+        "name": "W 15th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00912421171488,
+            40.743299466011905
+          ],
+          [
+            -74.00659047191054,
+            40.74224184434619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w15-9-10",
+        "kind": "street",
+        "name": "W 15th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00659047191054,
+            40.74224184434619
+          ],
+          [
+            -74.00405673210622,
+            40.741184222680474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w15-8-9",
+        "kind": "street",
+        "name": "W 15th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00405673210622,
+            40.741184222680474
+          ],
+          [
+            -74.0015229923019,
+            40.74012660101476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w15-7-8",
+        "kind": "street",
+        "name": "W 15th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0015229923019,
+            40.74012660101476
+          ],
+          [
+            -73.99898925249758,
+            40.73906897934904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w15-6-7",
+        "kind": "street",
+        "name": "W 15th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99898925249758,
+            40.73906897934904
+          ],
+          [
+            -73.99645551269326,
+            40.73801135768333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w16-10-11",
+        "kind": "street",
+        "name": "W 16th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00867972440813,
+            40.743910823695224
+          ],
+          [
+            -74.0061459846038,
+            40.74285320202951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w16-9-10",
+        "kind": "street",
+        "name": "W 16th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0061459846038,
+            40.74285320202951
+          ],
+          [
+            -74.00361224479948,
+            40.74179558036379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w16-8-9",
+        "kind": "street",
+        "name": "W 16th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00361224479948,
+            40.74179558036379
+          ],
+          [
+            -74.00107850499516,
+            40.74073795869808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w16-7-8",
+        "kind": "street",
+        "name": "W 16th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00107850499516,
+            40.74073795869808
+          ],
+          [
+            -73.99854476519083,
+            40.73968033703236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w16-6-7",
+        "kind": "street",
+        "name": "W 16th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99854476519083,
+            40.73968033703236
+          ],
+          [
+            -73.99601102538651,
+            40.738622715366645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w17-10-11",
+        "kind": "street",
+        "name": "W 17th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00823523710139,
+            40.74452218137855
+          ],
+          [
+            -74.00570149729707,
+            40.743464559712834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w17-9-10",
+        "kind": "street",
+        "name": "W 17th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00570149729707,
+            40.743464559712834
+          ],
+          [
+            -74.00316775749273,
+            40.74240693804712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w17-8-9",
+        "kind": "street",
+        "name": "W 17th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00316775749273,
+            40.74240693804712
+          ],
+          [
+            -74.00063401768841,
+            40.7413493163814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w17-7-8",
+        "kind": "street",
+        "name": "W 17th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00063401768841,
+            40.7413493163814
+          ],
+          [
+            -73.99810027788409,
+            40.74029169471569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w17-6-7",
+        "kind": "street",
+        "name": "W 17th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99810027788409,
+            40.74029169471569
+          ],
+          [
+            -73.99556653807977,
+            40.73923407304997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w18-10-11",
+        "kind": "street",
+        "name": "W 18th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00779074979464,
+            40.745133539061875
+          ],
+          [
+            -74.00525700999032,
+            40.74407591739616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w18-9-10",
+        "kind": "street",
+        "name": "W 18th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00525700999032,
+            40.74407591739616
+          ],
+          [
+            -74.002723270186,
+            40.743018295730444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w18-8-9",
+        "kind": "street",
+        "name": "W 18th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.002723270186,
+            40.743018295730444
+          ],
+          [
+            -74.00018953038168,
+            40.74196067406473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w18-7-8",
+        "kind": "street",
+        "name": "W 18th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00018953038168,
+            40.74196067406473
+          ],
+          [
+            -73.99765579057735,
+            40.74090305239901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w18-6-7",
+        "kind": "street",
+        "name": "W 18th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99765579057735,
+            40.74090305239901
+          ],
+          [
+            -73.99512205077302,
+            40.7398454307333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w19-10-11",
+        "kind": "street",
+        "name": "W 19th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0073462624879,
+            40.7457448967452
+          ],
+          [
+            -74.00481252268358,
+            40.744687275079485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w19-9-10",
+        "kind": "street",
+        "name": "W 19th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00481252268358,
+            40.744687275079485
+          ],
+          [
+            -74.00227878287926,
+            40.74362965341377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w19-8-9",
+        "kind": "street",
+        "name": "W 19th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00227878287926,
+            40.74362965341377
+          ],
+          [
+            -73.99974504307492,
+            40.74257203174805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w19-7-8",
+        "kind": "street",
+        "name": "W 19th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99974504307492,
+            40.74257203174805
+          ],
+          [
+            -73.9972113032706,
+            40.74151441008233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w19-6-7",
+        "kind": "street",
+        "name": "W 19th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9972113032706,
+            40.74151441008233
+          ],
+          [
+            -73.99467756346628,
+            40.740456788416616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w20-10-11",
+        "kind": "street",
+        "name": "W 20th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00690177518116,
+            40.74635625442852
+          ],
+          [
+            -74.00436803537683,
+            40.745298632762804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w20-9-10",
+        "kind": "street",
+        "name": "W 20th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00436803537683,
+            40.745298632762804
+          ],
+          [
+            -74.00183429557251,
+            40.74424101109709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w20-8-9",
+        "kind": "street",
+        "name": "W 20th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00183429557251,
+            40.74424101109709
+          ],
+          [
+            -73.99930055576819,
+            40.74318338943137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w20-7-8",
+        "kind": "street",
+        "name": "W 20th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99930055576819,
+            40.74318338943137
+          ],
+          [
+            -73.99676681596387,
+            40.74212576776566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w20-6-7",
+        "kind": "street",
+        "name": "W 20th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99676681596387,
+            40.74212576776566
+          ],
+          [
+            -73.99423307615955,
+            40.74106814609994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w21-10-11",
+        "kind": "street",
+        "name": "W 21st St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00645728787441,
+            40.746967612111845
+          ],
+          [
+            -74.00392354807009,
+            40.74590999044613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w21-9-10",
+        "kind": "street",
+        "name": "W 21st St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00392354807009,
+            40.74590999044613
+          ],
+          [
+            -74.00138980826577,
+            40.744852368780414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w21-8-9",
+        "kind": "street",
+        "name": "W 21st St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00138980826577,
+            40.744852368780414
+          ],
+          [
+            -73.99885606846145,
+            40.7437947471147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w21-7-8",
+        "kind": "street",
+        "name": "W 21st St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99885606846145,
+            40.7437947471147
+          ],
+          [
+            -73.99632232865712,
+            40.74273712544898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w21-6-7",
+        "kind": "street",
+        "name": "W 21st St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99632232865712,
+            40.74273712544898
+          ],
+          [
+            -73.9937885888528,
+            40.74167950378327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w22-10-11",
+        "kind": "street",
+        "name": "W 22nd St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00601280056767,
+            40.74757896979517
+          ],
+          [
+            -74.00347906076335,
+            40.746521348129455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w22-9-10",
+        "kind": "street",
+        "name": "W 22nd St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00347906076335,
+            40.746521348129455
+          ],
+          [
+            -74.00094532095902,
+            40.74546372646374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w22-8-9",
+        "kind": "street",
+        "name": "W 22nd St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00094532095902,
+            40.74546372646374
+          ],
+          [
+            -73.9984115811547,
+            40.744406104798024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w22-7-8",
+        "kind": "street",
+        "name": "W 22nd St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9984115811547,
+            40.744406104798024
+          ],
+          [
+            -73.99587784135038,
+            40.74334848313231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w22-6-7",
+        "kind": "street",
+        "name": "W 22nd St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99587784135038,
+            40.74334848313231
+          ],
+          [
+            -73.99334410154606,
+            40.74229086146659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w23-10-11",
+        "kind": "street",
+        "name": "W 23rd St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00556831326092,
+            40.74819032747849
+          ],
+          [
+            -74.0030345734566,
+            40.747132705812774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w23-9-10",
+        "kind": "street",
+        "name": "W 23rd St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0030345734566,
+            40.747132705812774
+          ],
+          [
+            -74.00050083365228,
+            40.74607508414706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w23-8-9",
+        "kind": "street",
+        "name": "W 23rd St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00050083365228,
+            40.74607508414706
+          ],
+          [
+            -73.99796709384796,
+            40.74501746248134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w23-7-8",
+        "kind": "street",
+        "name": "W 23rd St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99796709384796,
+            40.74501746248134
+          ],
+          [
+            -73.99543335404364,
+            40.74395984081563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w23-6-7",
+        "kind": "street",
+        "name": "W 23rd St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99543335404364,
+            40.74395984081563
+          ],
+          [
+            -73.9928996142393,
+            40.74290221914991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w24-10-11",
+        "kind": "street",
+        "name": "W 24th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00512382595419,
+            40.748801685161816
+          ],
+          [
+            -74.00259008614987,
+            40.7477440634961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w24-9-10",
+        "kind": "street",
+        "name": "W 24th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00259008614987,
+            40.7477440634961
+          ],
+          [
+            -74.00005634634554,
+            40.746686441830384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w24-8-9",
+        "kind": "street",
+        "name": "W 24th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00005634634554,
+            40.746686441830384
+          ],
+          [
+            -73.99752260654121,
+            40.74562882016467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w24-7-8",
+        "kind": "street",
+        "name": "W 24th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99752260654121,
+            40.74562882016467
+          ],
+          [
+            -73.99498886673689,
+            40.74457119849895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w24-6-7",
+        "kind": "street",
+        "name": "W 24th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99498886673689,
+            40.74457119849895
+          ],
+          [
+            -73.99245512693257,
+            40.74351357683324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w25-10-11",
+        "kind": "street",
+        "name": "W 25th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00467933864745,
+            40.74941304284514
+          ],
+          [
+            -74.00214559884311,
+            40.748355421179426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w25-9-10",
+        "kind": "street",
+        "name": "W 25th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00214559884311,
+            40.748355421179426
+          ],
+          [
+            -73.9996118590388,
+            40.74729779951371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w25-8-9",
+        "kind": "street",
+        "name": "W 25th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9996118590388,
+            40.74729779951371
+          ],
+          [
+            -73.99707811923447,
+            40.746240177847994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w25-7-8",
+        "kind": "street",
+        "name": "W 25th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99707811923447,
+            40.746240177847994
+          ],
+          [
+            -73.99454437943015,
+            40.74518255618228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w25-6-7",
+        "kind": "street",
+        "name": "W 25th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99454437943015,
+            40.74518255618228
+          ],
+          [
+            -73.99201063962583,
+            40.74412493451656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w26-10-11",
+        "kind": "street",
+        "name": "W 26th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0042348513407,
+            40.75002440052846
+          ],
+          [
+            -74.00170111153638,
+            40.748966778862744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w26-9-10",
+        "kind": "street",
+        "name": "W 26th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00170111153638,
+            40.748966778862744
+          ],
+          [
+            -73.99916737173206,
+            40.74790915719703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w26-8-9",
+        "kind": "street",
+        "name": "W 26th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99916737173206,
+            40.74790915719703
+          ],
+          [
+            -73.99663363192774,
+            40.74685153553131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w26-7-8",
+        "kind": "street",
+        "name": "W 26th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99663363192774,
+            40.74685153553131
+          ],
+          [
+            -73.99409989212342,
+            40.7457939138656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w26-6-7",
+        "kind": "street",
+        "name": "W 26th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99409989212342,
+            40.7457939138656
+          ],
+          [
+            -73.99156615231908,
+            40.74473629219988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w27-10-11",
+        "kind": "street",
+        "name": "W 27th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00379036403396,
+            40.750635758211786
+          ],
+          [
+            -74.00125662422964,
+            40.74957813654607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w27-9-10",
+        "kind": "street",
+        "name": "W 27th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00125662422964,
+            40.74957813654607
+          ],
+          [
+            -73.99872288442532,
+            40.748520514880354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w27-8-9",
+        "kind": "street",
+        "name": "W 27th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99872288442532,
+            40.748520514880354
+          ],
+          [
+            -73.99618914462098,
+            40.74746289321464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w27-7-8",
+        "kind": "street",
+        "name": "W 27th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99618914462098,
+            40.74746289321464
+          ],
+          [
+            -73.99365540481666,
+            40.74640527154892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w27-6-7",
+        "kind": "street",
+        "name": "W 27th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99365540481666,
+            40.74640527154892
+          ],
+          [
+            -73.99112166501234,
+            40.74534764988321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w28-10-11",
+        "kind": "street",
+        "name": "W 28th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00334587672722,
+            40.75124711589511
+          ],
+          [
+            -74.00081213692289,
+            40.750189494229396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w28-9-10",
+        "kind": "street",
+        "name": "W 28th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00081213692289,
+            40.750189494229396
+          ],
+          [
+            -73.99827839711857,
+            40.74913187256368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w28-8-9",
+        "kind": "street",
+        "name": "W 28th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99827839711857,
+            40.74913187256368
+          ],
+          [
+            -73.99574465731425,
+            40.748074250897965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w28-7-8",
+        "kind": "street",
+        "name": "W 28th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99574465731425,
+            40.748074250897965
+          ],
+          [
+            -73.99321091750993,
+            40.74701662923225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w28-6-7",
+        "kind": "street",
+        "name": "W 28th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99321091750993,
+            40.74701662923225
+          ],
+          [
+            -73.9906771777056,
+            40.74595900756653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w29-10-11",
+        "kind": "street",
+        "name": "W 29th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00290138942047,
+            40.75185847357843
+          ],
+          [
+            -74.00036764961615,
+            40.750800851912715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w29-9-10",
+        "kind": "street",
+        "name": "W 29th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00036764961615,
+            40.750800851912715
+          ],
+          [
+            -73.99783390981183,
+            40.749743230247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w29-8-9",
+        "kind": "street",
+        "name": "W 29th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99783390981183,
+            40.749743230247
+          ],
+          [
+            -73.99530017000751,
+            40.74868560858128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w29-7-8",
+        "kind": "street",
+        "name": "W 29th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99530017000751,
+            40.74868560858128
+          ],
+          [
+            -73.99276643020318,
+            40.74762798691557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w29-6-7",
+        "kind": "street",
+        "name": "W 29th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99276643020318,
+            40.74762798691557
+          ],
+          [
+            -73.99023269039886,
+            40.74657036524985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w30-10-11",
+        "kind": "street",
+        "name": "W 30th St · 10th–11th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00245690211374,
+            40.752469831261756
+          ],
+          [
+            -73.99992316230941,
+            40.75141220959604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w30-9-10",
+        "kind": "street",
+        "name": "W 30th St · 9th–10th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99992316230941,
+            40.75141220959604
+          ],
+          [
+            -73.99738942250508,
+            40.750354587930325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w30-8-9",
+        "kind": "street",
+        "name": "W 30th St · 8th–9th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99738942250508,
+            40.750354587930325
+          ],
+          [
+            -73.99485568270076,
+            40.74929696626461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w30-7-8",
+        "kind": "street",
+        "name": "W 30th St · 7th–8th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99485568270076,
+            40.74929696626461
+          ],
+          [
+            -73.99232194289644,
+            40.74823934459889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "w30-6-7",
+        "kind": "street",
+        "name": "W 30th St · 6th–7th Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99232194289644,
+            40.74823934459889
+          ],
+          [
+            -73.98978820309212,
+            40.74718172293318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-14-15",
+        "kind": "avenue",
+        "name": "11th Ave · W 14th–15th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00956869902161,
+            40.74268810832858
+          ],
+          [
+            -74.00912421171488,
+            40.743299466011905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-15-16",
+        "kind": "avenue",
+        "name": "11th Ave · W 15th–16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00912421171488,
+            40.743299466011905
+          ],
+          [
+            -74.00867972440813,
+            40.743910823695224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-16-17",
+        "kind": "avenue",
+        "name": "11th Ave · W 16th–17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00867972440813,
+            40.743910823695224
+          ],
+          [
+            -74.00823523710139,
+            40.74452218137855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-17-18",
+        "kind": "avenue",
+        "name": "11th Ave · W 17th–18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00823523710139,
+            40.74452218137855
+          ],
+          [
+            -74.00779074979464,
+            40.745133539061875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-18-19",
+        "kind": "avenue",
+        "name": "11th Ave · W 18th–19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00779074979464,
+            40.745133539061875
+          ],
+          [
+            -74.0073462624879,
+            40.7457448967452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-19-20",
+        "kind": "avenue",
+        "name": "11th Ave · W 19th–20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0073462624879,
+            40.7457448967452
+          ],
+          [
+            -74.00690177518116,
+            40.74635625442852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-20-21",
+        "kind": "avenue",
+        "name": "11th Ave · W 20th–21th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00690177518116,
+            40.74635625442852
+          ],
+          [
+            -74.00645728787441,
+            40.746967612111845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-21-22",
+        "kind": "avenue",
+        "name": "11th Ave · W 21th–22th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00645728787441,
+            40.746967612111845
+          ],
+          [
+            -74.00601280056767,
+            40.74757896979517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-22-23",
+        "kind": "avenue",
+        "name": "11th Ave · W 22th–23th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00601280056767,
+            40.74757896979517
+          ],
+          [
+            -74.00556831326092,
+            40.74819032747849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-23-24",
+        "kind": "avenue",
+        "name": "11th Ave · W 23th–24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00556831326092,
+            40.74819032747849
+          ],
+          [
+            -74.00512382595419,
+            40.748801685161816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-24-25",
+        "kind": "avenue",
+        "name": "11th Ave · W 24th–25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00512382595419,
+            40.748801685161816
+          ],
+          [
+            -74.00467933864745,
+            40.74941304284514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-25-26",
+        "kind": "avenue",
+        "name": "11th Ave · W 25th–26th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00467933864745,
+            40.74941304284514
+          ],
+          [
+            -74.0042348513407,
+            40.75002440052846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-26-27",
+        "kind": "avenue",
+        "name": "11th Ave · W 26th–27th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0042348513407,
+            40.75002440052846
+          ],
+          [
+            -74.00379036403396,
+            40.750635758211786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-27-28",
+        "kind": "avenue",
+        "name": "11th Ave · W 27th–28th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00379036403396,
+            40.750635758211786
+          ],
+          [
+            -74.00334587672722,
+            40.75124711589511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-28-29",
+        "kind": "avenue",
+        "name": "11th Ave · W 28th–29th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00334587672722,
+            40.75124711589511
+          ],
+          [
+            -74.00290138942047,
+            40.75185847357843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11ave-29-30",
+        "kind": "avenue",
+        "name": "11th Ave · W 29th–30th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00290138942047,
+            40.75185847357843
+          ],
+          [
+            -74.00245690211374,
+            40.752469831261756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-14-15",
+        "kind": "avenue",
+        "name": "10th Ave · W 14th–15th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0070349592173,
+            40.741630486662864
+          ],
+          [
+            -74.00659047191054,
+            40.74224184434619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-15-16",
+        "kind": "avenue",
+        "name": "10th Ave · W 15th–16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00659047191054,
+            40.74224184434619
+          ],
+          [
+            -74.0061459846038,
+            40.74285320202951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-16-17",
+        "kind": "avenue",
+        "name": "10th Ave · W 16th–17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0061459846038,
+            40.74285320202951
+          ],
+          [
+            -74.00570149729707,
+            40.743464559712834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-17-18",
+        "kind": "avenue",
+        "name": "10th Ave · W 17th–18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00570149729707,
+            40.743464559712834
+          ],
+          [
+            -74.00525700999032,
+            40.74407591739616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-18-19",
+        "kind": "avenue",
+        "name": "10th Ave · W 18th–19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00525700999032,
+            40.74407591739616
+          ],
+          [
+            -74.00481252268358,
+            40.744687275079485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-19-20",
+        "kind": "avenue",
+        "name": "10th Ave · W 19th–20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00481252268358,
+            40.744687275079485
+          ],
+          [
+            -74.00436803537683,
+            40.745298632762804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-20-21",
+        "kind": "avenue",
+        "name": "10th Ave · W 20th–21th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00436803537683,
+            40.745298632762804
+          ],
+          [
+            -74.00392354807009,
+            40.74590999044613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-21-22",
+        "kind": "avenue",
+        "name": "10th Ave · W 21th–22th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00392354807009,
+            40.74590999044613
+          ],
+          [
+            -74.00347906076335,
+            40.746521348129455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-22-23",
+        "kind": "avenue",
+        "name": "10th Ave · W 22th–23th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00347906076335,
+            40.746521348129455
+          ],
+          [
+            -74.0030345734566,
+            40.747132705812774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-23-24",
+        "kind": "avenue",
+        "name": "10th Ave · W 23th–24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0030345734566,
+            40.747132705812774
+          ],
+          [
+            -74.00259008614987,
+            40.7477440634961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-24-25",
+        "kind": "avenue",
+        "name": "10th Ave · W 24th–25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00259008614987,
+            40.7477440634961
+          ],
+          [
+            -74.00214559884311,
+            40.748355421179426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-25-26",
+        "kind": "avenue",
+        "name": "10th Ave · W 25th–26th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00214559884311,
+            40.748355421179426
+          ],
+          [
+            -74.00170111153638,
+            40.748966778862744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-26-27",
+        "kind": "avenue",
+        "name": "10th Ave · W 26th–27th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00170111153638,
+            40.748966778862744
+          ],
+          [
+            -74.00125662422964,
+            40.74957813654607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-27-28",
+        "kind": "avenue",
+        "name": "10th Ave · W 27th–28th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00125662422964,
+            40.74957813654607
+          ],
+          [
+            -74.00081213692289,
+            40.750189494229396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-28-29",
+        "kind": "avenue",
+        "name": "10th Ave · W 28th–29th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00081213692289,
+            40.750189494229396
+          ],
+          [
+            -74.00036764961615,
+            40.750800851912715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10ave-29-30",
+        "kind": "avenue",
+        "name": "10th Ave · W 29th–30th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00036764961615,
+            40.750800851912715
+          ],
+          [
+            -73.99992316230941,
+            40.75141220959604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-14-15",
+        "kind": "avenue",
+        "name": "9th Ave · W 14th–15th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00450121941297,
+            40.74057286499715
+          ],
+          [
+            -74.00405673210622,
+            40.741184222680474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-15-16",
+        "kind": "avenue",
+        "name": "9th Ave · W 15th–16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00405673210622,
+            40.741184222680474
+          ],
+          [
+            -74.00361224479948,
+            40.74179558036379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-16-17",
+        "kind": "avenue",
+        "name": "9th Ave · W 16th–17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00361224479948,
+            40.74179558036379
+          ],
+          [
+            -74.00316775749273,
+            40.74240693804712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-17-18",
+        "kind": "avenue",
+        "name": "9th Ave · W 17th–18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00316775749273,
+            40.74240693804712
+          ],
+          [
+            -74.002723270186,
+            40.743018295730444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-18-19",
+        "kind": "avenue",
+        "name": "9th Ave · W 18th–19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.002723270186,
+            40.743018295730444
+          ],
+          [
+            -74.00227878287926,
+            40.74362965341377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-19-20",
+        "kind": "avenue",
+        "name": "9th Ave · W 19th–20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00227878287926,
+            40.74362965341377
+          ],
+          [
+            -74.00183429557251,
+            40.74424101109709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-20-21",
+        "kind": "avenue",
+        "name": "9th Ave · W 20th–21th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00183429557251,
+            40.74424101109709
+          ],
+          [
+            -74.00138980826577,
+            40.744852368780414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-21-22",
+        "kind": "avenue",
+        "name": "9th Ave · W 21th–22th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00138980826577,
+            40.744852368780414
+          ],
+          [
+            -74.00094532095902,
+            40.74546372646374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-22-23",
+        "kind": "avenue",
+        "name": "9th Ave · W 22th–23th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00094532095902,
+            40.74546372646374
+          ],
+          [
+            -74.00050083365228,
+            40.74607508414706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-23-24",
+        "kind": "avenue",
+        "name": "9th Ave · W 23th–24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00050083365228,
+            40.74607508414706
+          ],
+          [
+            -74.00005634634554,
+            40.746686441830384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-24-25",
+        "kind": "avenue",
+        "name": "9th Ave · W 24th–25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00005634634554,
+            40.746686441830384
+          ],
+          [
+            -73.9996118590388,
+            40.74729779951371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-25-26",
+        "kind": "avenue",
+        "name": "9th Ave · W 25th–26th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9996118590388,
+            40.74729779951371
+          ],
+          [
+            -73.99916737173206,
+            40.74790915719703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-26-27",
+        "kind": "avenue",
+        "name": "9th Ave · W 26th–27th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99916737173206,
+            40.74790915719703
+          ],
+          [
+            -73.99872288442532,
+            40.748520514880354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-27-28",
+        "kind": "avenue",
+        "name": "9th Ave · W 27th–28th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99872288442532,
+            40.748520514880354
+          ],
+          [
+            -73.99827839711857,
+            40.74913187256368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-28-29",
+        "kind": "avenue",
+        "name": "9th Ave · W 28th–29th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99827839711857,
+            40.74913187256368
+          ],
+          [
+            -73.99783390981183,
+            40.749743230247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9ave-29-30",
+        "kind": "avenue",
+        "name": "9th Ave · W 29th–30th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99783390981183,
+            40.749743230247
+          ],
+          [
+            -73.99738942250508,
+            40.750354587930325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-14-15",
+        "kind": "avenue",
+        "name": "8th Ave · W 14th–15th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00196747960864,
+            40.73951524333143
+          ],
+          [
+            -74.0015229923019,
+            40.74012660101476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-15-16",
+        "kind": "avenue",
+        "name": "8th Ave · W 15th–16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0015229923019,
+            40.74012660101476
+          ],
+          [
+            -74.00107850499516,
+            40.74073795869808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-16-17",
+        "kind": "avenue",
+        "name": "8th Ave · W 16th–17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00107850499516,
+            40.74073795869808
+          ],
+          [
+            -74.00063401768841,
+            40.7413493163814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-17-18",
+        "kind": "avenue",
+        "name": "8th Ave · W 17th–18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00063401768841,
+            40.7413493163814
+          ],
+          [
+            -74.00018953038168,
+            40.74196067406473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-18-19",
+        "kind": "avenue",
+        "name": "8th Ave · W 18th–19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00018953038168,
+            40.74196067406473
+          ],
+          [
+            -73.99974504307492,
+            40.74257203174805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-19-20",
+        "kind": "avenue",
+        "name": "8th Ave · W 19th–20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99974504307492,
+            40.74257203174805
+          ],
+          [
+            -73.99930055576819,
+            40.74318338943137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-20-21",
+        "kind": "avenue",
+        "name": "8th Ave · W 20th–21th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99930055576819,
+            40.74318338943137
+          ],
+          [
+            -73.99885606846145,
+            40.7437947471147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-21-22",
+        "kind": "avenue",
+        "name": "8th Ave · W 21th–22th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99885606846145,
+            40.7437947471147
+          ],
+          [
+            -73.9984115811547,
+            40.744406104798024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-22-23",
+        "kind": "avenue",
+        "name": "8th Ave · W 22th–23th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9984115811547,
+            40.744406104798024
+          ],
+          [
+            -73.99796709384796,
+            40.74501746248134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-23-24",
+        "kind": "avenue",
+        "name": "8th Ave · W 23th–24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99796709384796,
+            40.74501746248134
+          ],
+          [
+            -73.99752260654121,
+            40.74562882016467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-24-25",
+        "kind": "avenue",
+        "name": "8th Ave · W 24th–25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99752260654121,
+            40.74562882016467
+          ],
+          [
+            -73.99707811923447,
+            40.746240177847994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-25-26",
+        "kind": "avenue",
+        "name": "8th Ave · W 25th–26th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99707811923447,
+            40.746240177847994
+          ],
+          [
+            -73.99663363192774,
+            40.74685153553131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-26-27",
+        "kind": "avenue",
+        "name": "8th Ave · W 26th–27th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99663363192774,
+            40.74685153553131
+          ],
+          [
+            -73.99618914462098,
+            40.74746289321464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-27-28",
+        "kind": "avenue",
+        "name": "8th Ave · W 27th–28th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99618914462098,
+            40.74746289321464
+          ],
+          [
+            -73.99574465731425,
+            40.748074250897965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-28-29",
+        "kind": "avenue",
+        "name": "8th Ave · W 28th–29th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99574465731425,
+            40.748074250897965
+          ],
+          [
+            -73.99530017000751,
+            40.74868560858128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8ave-29-30",
+        "kind": "avenue",
+        "name": "8th Ave · W 29th–30th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99530017000751,
+            40.74868560858128
+          ],
+          [
+            -73.99485568270076,
+            40.74929696626461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-14-15",
+        "kind": "avenue",
+        "name": "7th Ave · W 14th–15th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99943373980432,
+            40.73845762166572
+          ],
+          [
+            -73.99898925249758,
+            40.73906897934904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-15-16",
+        "kind": "avenue",
+        "name": "7th Ave · W 15th–16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99898925249758,
+            40.73906897934904
+          ],
+          [
+            -73.99854476519083,
+            40.73968033703236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-16-17",
+        "kind": "avenue",
+        "name": "7th Ave · W 16th–17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99854476519083,
+            40.73968033703236
+          ],
+          [
+            -73.99810027788409,
+            40.74029169471569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-17-18",
+        "kind": "avenue",
+        "name": "7th Ave · W 17th–18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99810027788409,
+            40.74029169471569
+          ],
+          [
+            -73.99765579057735,
+            40.74090305239901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-18-19",
+        "kind": "avenue",
+        "name": "7th Ave · W 18th–19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99765579057735,
+            40.74090305239901
+          ],
+          [
+            -73.9972113032706,
+            40.74151441008233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-19-20",
+        "kind": "avenue",
+        "name": "7th Ave · W 19th–20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9972113032706,
+            40.74151441008233
+          ],
+          [
+            -73.99676681596387,
+            40.74212576776566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-20-21",
+        "kind": "avenue",
+        "name": "7th Ave · W 20th–21th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99676681596387,
+            40.74212576776566
+          ],
+          [
+            -73.99632232865712,
+            40.74273712544898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-21-22",
+        "kind": "avenue",
+        "name": "7th Ave · W 21th–22th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99632232865712,
+            40.74273712544898
+          ],
+          [
+            -73.99587784135038,
+            40.74334848313231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-22-23",
+        "kind": "avenue",
+        "name": "7th Ave · W 22th–23th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99587784135038,
+            40.74334848313231
+          ],
+          [
+            -73.99543335404364,
+            40.74395984081563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-23-24",
+        "kind": "avenue",
+        "name": "7th Ave · W 23th–24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99543335404364,
+            40.74395984081563
+          ],
+          [
+            -73.99498886673689,
+            40.74457119849895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-24-25",
+        "kind": "avenue",
+        "name": "7th Ave · W 24th–25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99498886673689,
+            40.74457119849895
+          ],
+          [
+            -73.99454437943015,
+            40.74518255618228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-25-26",
+        "kind": "avenue",
+        "name": "7th Ave · W 25th–26th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99454437943015,
+            40.74518255618228
+          ],
+          [
+            -73.99409989212342,
+            40.7457939138656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-26-27",
+        "kind": "avenue",
+        "name": "7th Ave · W 26th–27th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99409989212342,
+            40.7457939138656
+          ],
+          [
+            -73.99365540481666,
+            40.74640527154892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-27-28",
+        "kind": "avenue",
+        "name": "7th Ave · W 27th–28th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99365540481666,
+            40.74640527154892
+          ],
+          [
+            -73.99321091750993,
+            40.74701662923225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-28-29",
+        "kind": "avenue",
+        "name": "7th Ave · W 28th–29th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99321091750993,
+            40.74701662923225
+          ],
+          [
+            -73.99276643020318,
+            40.74762798691557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ave-29-30",
+        "kind": "avenue",
+        "name": "7th Ave · W 29th–30th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99276643020318,
+            40.74762798691557
+          ],
+          [
+            -73.99232194289644,
+            40.74823934459889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-14-15",
+        "kind": "avenue",
+        "name": "6th Ave · W 14th–15th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9969,
+            40.7374
+          ],
+          [
+            -73.99645551269326,
+            40.73801135768333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-15-16",
+        "kind": "avenue",
+        "name": "6th Ave · W 15th–16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99645551269326,
+            40.73801135768333
+          ],
+          [
+            -73.99601102538651,
+            40.738622715366645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-16-17",
+        "kind": "avenue",
+        "name": "6th Ave · W 16th–17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99601102538651,
+            40.738622715366645
+          ],
+          [
+            -73.99556653807977,
+            40.73923407304997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-17-18",
+        "kind": "avenue",
+        "name": "6th Ave · W 17th–18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99556653807977,
+            40.73923407304997
+          ],
+          [
+            -73.99512205077302,
+            40.7398454307333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-18-19",
+        "kind": "avenue",
+        "name": "6th Ave · W 18th–19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99512205077302,
+            40.7398454307333
+          ],
+          [
+            -73.99467756346628,
+            40.740456788416616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-19-20",
+        "kind": "avenue",
+        "name": "6th Ave · W 19th–20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99467756346628,
+            40.740456788416616
+          ],
+          [
+            -73.99423307615955,
+            40.74106814609994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-20-21",
+        "kind": "avenue",
+        "name": "6th Ave · W 20th–21th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99423307615955,
+            40.74106814609994
+          ],
+          [
+            -73.9937885888528,
+            40.74167950378327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-21-22",
+        "kind": "avenue",
+        "name": "6th Ave · W 21th–22th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9937885888528,
+            40.74167950378327
+          ],
+          [
+            -73.99334410154606,
+            40.74229086146659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-22-23",
+        "kind": "avenue",
+        "name": "6th Ave · W 22th–23th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99334410154606,
+            40.74229086146659
+          ],
+          [
+            -73.9928996142393,
+            40.74290221914991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-23-24",
+        "kind": "avenue",
+        "name": "6th Ave · W 23th–24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9928996142393,
+            40.74290221914991
+          ],
+          [
+            -73.99245512693257,
+            40.74351357683324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-24-25",
+        "kind": "avenue",
+        "name": "6th Ave · W 24th–25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99245512693257,
+            40.74351357683324
+          ],
+          [
+            -73.99201063962583,
+            40.74412493451656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-25-26",
+        "kind": "avenue",
+        "name": "6th Ave · W 25th–26th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99201063962583,
+            40.74412493451656
+          ],
+          [
+            -73.99156615231908,
+            40.74473629219988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-26-27",
+        "kind": "avenue",
+        "name": "6th Ave · W 26th–27th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99156615231908,
+            40.74473629219988
+          ],
+          [
+            -73.99112166501234,
+            40.74534764988321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-27-28",
+        "kind": "avenue",
+        "name": "6th Ave · W 27th–28th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99112166501234,
+            40.74534764988321
+          ],
+          [
+            -73.9906771777056,
+            40.74595900756653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-28-29",
+        "kind": "avenue",
+        "name": "6th Ave · W 28th–29th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9906771777056,
+            40.74595900756653
+          ],
+          [
+            -73.99023269039886,
+            40.74657036524985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6ave-29-30",
+        "kind": "avenue",
+        "name": "6th Ave · W 29th–30th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99023269039886,
+            40.74657036524985
+          ],
+          [
+            -73.98978820309212,
+            40.74718172293318
+          ]
+        ]
+      }
+    }
+  ]
+}
