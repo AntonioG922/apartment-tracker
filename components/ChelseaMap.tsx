@@ -1,9 +1,15 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
-import type { FeatureCollection } from "geojson";
+import { useLiveQuery } from "dexie-react-hooks";
+import type { Feature, FeatureCollection } from "geojson";
+import type { Layer, PathOptions } from "leaflet";
 import "leaflet/dist/leaflet.css";
+import db, { type BlockSegmentRecord } from "@/lib/db";
+import { ratingColor } from "@/lib/rating-colors";
+import BlockSheet, { type SelectedSegment } from "./BlockSheet";
+import LocateButton from "./LocateButton";
 
 // Roughly centers the W14th-W30th / 6th-11th Ave bounding box.
 const CHELSEA_CENTER: [number, number] = [40.7449, -73.9997];
@@ -14,6 +20,7 @@ const CHELSEA_BOUNDS: [[number, number], [number, number]] = [
 
 export default function ChelseaMap() {
   const [grid, setGrid] = useState<FeatureCollection | null>(null);
+  const [selected, setSelected] = useState<SelectedSegment | null>(null);
 
   useEffect(() => {
     fetch("/data/chelsea-grid.geojson")
@@ -21,26 +28,69 @@ export default function ChelseaMap() {
       .then(setGrid);
   }, []);
 
+  const segments = useLiveQuery(() => db.blockSegments.toArray(), []);
+  const recordsById = useMemo(() => {
+    const map = new Map<string, BlockSegmentRecord>();
+    for (const s of segments ?? []) map.set(s.id, s);
+    return map;
+  }, [segments]);
+  const ratings = useMemo(() => {
+    const map = new Map<string, number>();
+    for (const [id, s] of recordsById) map.set(id, s.rating);
+    return map;
+  }, [recordsById]);
+
+  const visibleStyle = useCallback(
+    (feature?: Feature): PathOptions => {
+      const rating = feature ? (ratings.get(feature.properties?.id) ?? 0) : 0;
+      return { color: ratingColor(rating), weight: 5, opacity: 0.9 };
+    },
+    [ratings],
+  );
+
+  const hitAreaStyle = useCallback(
+    (): PathOptions => ({ color: "#000", weight: 20, opacity: 0 }),
+    [],
+  );
+
+  const bindClick = useCallback((feature: Feature, layer: Layer) => {
+    layer.on("click", () => {
+      setSelected({
+        id: feature.properties?.id,
+        name: feature.properties?.name,
+      });
+    });
+  }, []);
+
   return (
-    <MapContainer
-      center={CHELSEA_CENTER}
-      zoom={16}
-      maxBounds={CHELSEA_BOUNDS}
-      maxBoundsViscosity={1.0}
-      minZoom={15}
-      maxZoom={19}
-      className="h-screen w-full"
-    >
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
-      {grid && (
-        <GeoJSON
-          data={grid}
-          style={{ color: "#9ca3af", weight: 4, opacity: 0.9 }}
+    <>
+      <MapContainer
+        center={CHELSEA_CENTER}
+        zoom={16}
+        maxBounds={CHELSEA_BOUNDS}
+        maxBoundsViscosity={1.0}
+        minZoom={15}
+        maxZoom={19}
+        className="h-screen w-full"
+      >
+        <TileLayer
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-      )}
-    </MapContainer>
+        {grid && (
+          <>
+            <GeoJSON data={grid} style={visibleStyle} interactive={false} />
+            <GeoJSON data={grid} style={hitAreaStyle} onEachFeature={bindClick} />
+          </>
+        )}
+        <LocateButton />
+      </MapContainer>
+      <BlockSheet
+        key={selected?.id ?? "closed"}
+        segment={selected}
+        record={selected ? recordsById.get(selected.id) : undefined}
+        onClose={() => setSelected(null)}
+      />
+    </>
   );
 }
