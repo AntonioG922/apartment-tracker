@@ -4,7 +4,11 @@ A mobile-first app for tracking apartment tours and block impressions in Chelsea
 
 ## Status
 
-Build order step 1 (grid generation): done. The Chelsea block grid (W14th-W30th, 6th-11th Ave) is pre-generated as a static GeoJSON file and rendered on a Leaflet map for visual verification. Steps 2-6 (interactive block/apartment editing, add-apartment flow, list/compare, Supabase sync, PWA) are not built yet.
+Build order steps 1-2: done.
+- Step 1: the Chelsea block grid (W14th-W30th, 6th-11th Ave) is pre-generated as a static GeoJSON file and rendered on a Leaflet map, calibrated against real geocoded reference points.
+- Step 2: block segments are tappable on the map - a bottom sheet lets you set a star rating, tags, and notes, autosaved to IndexedDB (Dexie) and colored by rating on the map.
+
+Steps 3-6 (add-apartment flow + pins, list/compare, Supabase sync, PWA) are not built yet.
 
 ## Getting started
 
